@@ -52,22 +52,20 @@ After cleaning, the data was visualized using Seaborn to answer specific questio
 ### Q1: What is the distribution of 50km vs. 50-mile races and male vs. female participation?
 * A histogram was used to show the counts of each race type and the gender breakdown within them.
 
-`[Add a screenshot of your histogram: 50k vs 50-mile distribution]`
-
 ### Q2: What is the average speed distribution for 50-mile races?
 * A distribution plot (displot) was created to visualize the spread of average speeds.
 
-`[Add a screenshot of your displot: Average Speed]`
+https://github.com/Rujjul/Ultra-Marathon-Running/blob/main/displot.png
 
 ### Q3: How do average speeds compare between male and female athletes across different race lengths?
 * A violin plot was used to show the distribution of speeds for both genders across the 50k and 50-mile distances.
 
-`[Add a screenshot of your violin plot: Speed by Gender and Distance]`
+https://github.com/Rujjul/Ultra-Marathon-Running/blob/main/violinplot.png
 
 ### Q4: What is the relationship between an athlete's age and their average speed?
 * An LM plot (regression plot) was used to show the trend between `athlete_age` and `average_speed`, further broken down by `gender`.
 
-`[Add a screenshot of your LM plot: Age vs. Speed]`
+https://github.com/Rujjul/Ultra-Marathon-Running/blob/main/lmplot.png
 
 ---
 
